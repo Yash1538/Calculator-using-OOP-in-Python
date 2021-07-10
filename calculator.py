@@ -1,4 +1,4 @@
-# simple calculator usin OOP in python
+# simple calculator using OOP in python
 class calculator:
     def __init__(self, var1, var2):
         self.var1 = var1
@@ -39,4 +39,4 @@ while True:
     elif n == 5:
         exit()
     else:
-        print("Please Enter valid Arg")
+        print("Please Enter valid Argument")
